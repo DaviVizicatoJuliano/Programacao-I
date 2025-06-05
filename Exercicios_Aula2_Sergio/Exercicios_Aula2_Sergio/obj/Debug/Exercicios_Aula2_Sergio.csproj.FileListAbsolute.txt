@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\bin\Debug\Exercicios_Aula2_Sergio.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\bin\Debug\Exercicios_Aula2_Sergio.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\bin\Debug\Exercicios_Aula2_Sergio.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\obj\Debug\Exercicios_Aula2_Sergio.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\obj\Debug\Exercicios_Aula2_Sergio.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\obj\Debug\Exercicios_Aula2_Sergio.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios_Aula2_Sergio\Exercicios_Aula2_Sergio\obj\Debug\Exercicios_Aula2_Sergio.pdb

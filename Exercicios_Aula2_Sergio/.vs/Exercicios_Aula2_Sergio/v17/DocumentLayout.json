@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicios_Aula2_Sergio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46768E00-AE0A-4B41-B340-9D8801948222}|Exercicios_Aula2_Sergio\\Exercicios_Aula2_Sergio.csproj|c:\\users\\tatas\\onedrive\\aula serjao\\exercicios_aula2_sergio\\exercicios_aula2_sergio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46768E00-AE0A-4B41-B340-9D8801948222}|Exercicios_Aula2_Sergio\\Exercicios_Aula2_Sergio.csproj|solutionrelative:exercicios_aula2_sergio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicios_Aula2_Sergio\\Exercicios_Aula2_Sergio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios_Aula2_Sergio\\Program.cs",
+              "ToolTip": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicios_Aula2_Sergio\\Exercicios_Aula2_Sergio\\Program.cs",
+              "RelativeToolTip": "Exercicios_Aula2_Sergio\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwIUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:21:46.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
