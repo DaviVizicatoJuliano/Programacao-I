@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Trabalho_Estacionamento_Portari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5AE335-03B2-470C-B690-62AB6570D2B7}|Trabalho_Estacionamento_Portari\\Trabalho_Estacionamento_Portari.csproj|c:\\users\\tatas\\desktop\\program backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program backup.cs",
+              "DocumentMoniker": "C:\\Users\\tatas\\Desktop\\Program backup.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Program backup.cs",
+              "ToolTip": "C:\\Users\\tatas\\Desktop\\Program backup.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Program backup.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:29:03.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

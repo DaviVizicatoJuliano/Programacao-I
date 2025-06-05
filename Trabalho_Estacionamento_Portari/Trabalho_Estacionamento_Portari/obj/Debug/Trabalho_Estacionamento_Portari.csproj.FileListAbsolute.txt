@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\bin\Debug\Trabalho_Estacionamento_Portari.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\bin\Debug\Trabalho_Estacionamento_Portari.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\bin\Debug\Trabalho_Estacionamento_Portari.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\obj\Debug\Trabalho_Estacionamento_Portari.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\obj\Debug\Trabalho_Estacionamento_Portari.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\obj\Debug\Trabalho_Estacionamento_Portari.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Trabalho_Estacionamento_Portari\Trabalho_Estacionamento_Portari\obj\Debug\Trabalho_Estacionamento_Portari.pdb
