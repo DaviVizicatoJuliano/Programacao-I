@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|c:\\users\\tatas\\onedrive\\aula serjao\\exercicio4_aula4\\cadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE8C875-5637-48A7-8D7F-EB3F48C8BA81}|Exercicio4_Aula4.csproj|solutionrelative:cadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\CadastroFuncionario.cs",
+              "RelativeDocumentMoniker": "CadastroFuncionario.cs",
+              "ToolTip": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\CadastroFuncionario.cs",
+              "RelativeToolTip": "CadastroFuncionario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:13:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:07:29.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tatas\\OneDrive\\Aula Serjao\\Exercicio4_Aula4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:07:04.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
