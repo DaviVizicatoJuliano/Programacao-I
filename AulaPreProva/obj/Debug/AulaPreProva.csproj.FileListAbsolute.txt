@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\bin\Debug\AulaPreProva.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\bin\Debug\AulaPreProva.exe
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\bin\Debug\AulaPreProva.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\obj\Debug\AulaPreProva.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\obj\Debug\AulaPreProva.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\obj\Debug\AulaPreProva.exe
+C:\Users\tatas\OneDrive\Aula Serjao\AulaPreProva\obj\Debug\AulaPreProva.pdb
