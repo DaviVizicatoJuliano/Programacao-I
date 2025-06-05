@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\obj\Debug\Ex3-revisao.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\obj\Debug\Ex3-revisao.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\bin\Debug\Ex3-revisao.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\bin\Debug\Ex3-revisao.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\bin\Debug\Ex3-revisao.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\obj\Debug\Ex3-revisao.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Ex3-revisao\obj\Debug\Ex3-revisao.pdb
