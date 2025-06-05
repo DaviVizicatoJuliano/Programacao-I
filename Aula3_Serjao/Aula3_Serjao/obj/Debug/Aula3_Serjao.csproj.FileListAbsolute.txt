@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\bin\Debug\Aula3_Serjao.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\bin\Debug\Aula3_Serjao.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\bin\Debug\Aula3_Serjao.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\obj\Debug\Aula3_Serjao.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\obj\Debug\Aula3_Serjao.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\obj\Debug\Aula3_Serjao.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Aula3_Serjao\Aula3_Serjao\obj\Debug\Aula3_Serjao.pdb
