@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\bin\Debug\Exercicios Sergio.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\bin\Debug\Exercicios Sergio.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\bin\Debug\Exercicios Sergio.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\obj\Debug\Exercicios Sergio.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\obj\Debug\Exercicios Sergio.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\obj\Debug\Exercicios Sergio.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicios Sergio\Exercicios Sergio\obj\Debug\Exercicios Sergio.pdb
