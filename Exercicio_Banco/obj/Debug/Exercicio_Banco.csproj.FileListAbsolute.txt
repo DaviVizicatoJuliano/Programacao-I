@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\bin\Debug\Exercicio_Banco.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\bin\Debug\Exercicio_Banco.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\bin\Debug\Exercicio_Banco.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\obj\Debug\Exercicio_Banco.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\obj\Debug\Exercicio_Banco.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\obj\Debug\Exercicio_Banco.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Banco\obj\Debug\Exercicio_Banco.pdb
