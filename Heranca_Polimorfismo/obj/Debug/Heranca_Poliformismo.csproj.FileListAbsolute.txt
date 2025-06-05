@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\bin\Debug\Heranca_Poliformismo.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\bin\Debug\Heranca_Poliformismo.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\bin\Debug\Heranca_Poliformismo.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\obj\Debug\Heranca_Poliformismo.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\obj\Debug\Heranca_Poliformismo.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\obj\Debug\Heranca_Poliformismo.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Heranca_Poliformismo\obj\Debug\Heranca_Poliformismo.pdb
