@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\bin\Debug\Exercicio_Mensagem_Email.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\bin\Debug\Exercicio_Mensagem_Email.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\bin\Debug\Exercicio_Mensagem_Email.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\obj\Debug\Exercicio_Mensagem_Email.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\obj\Debug\Exercicio_Mensagem_Email.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\obj\Debug\Exercicio_Mensagem_Email.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Exercicio_Mensagem_Email\obj\Debug\Exercicio_Mensagem_Email.pdb
