@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\bin\Debug\ExercicioNet.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\bin\Debug\ExercicioNet.exe
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\bin\Debug\ExercicioNet.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\obj\Debug\ExercicioNet.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\obj\Debug\ExercicioNet.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\obj\Debug\ExercicioNet.exe
+C:\Users\tatas\OneDrive\Aula Serjao\ExercicioNet\obj\Debug\ExercicioNet.pdb
