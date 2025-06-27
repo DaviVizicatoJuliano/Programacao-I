@@ -1,0 +1,7 @@
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\bin\Debug\Aula_26_04.exe.config
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\bin\Debug\Aula_26_04.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\bin\Debug\Aula_26_04.pdb
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\obj\Debug\Aula_26_04.csproj.AssemblyReference.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\obj\Debug\Aula_26_04.csproj.CoreCompileInputs.cache
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\obj\Debug\Aula_26_04.exe
+C:\Users\tatas\OneDrive\Aula Serjao\Aula_26_04\obj\Debug\Aula_26_04.pdb
